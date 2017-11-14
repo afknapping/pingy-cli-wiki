@@ -117,7 +117,7 @@ The git repo can be hosted anywhere, it doesn't need to be on GitHub. This is a 
 
 ### `pingy scaffold <shorthand github url>`
 
-A shorthand GitHub URL can be in the form of `user/repo` or `user/(pingy-scaffold-). So, you can use `pingyhq/pingy-scaffold-bootstrap-jumbotron` or if your repo begins with the prefix `pingy-scaffold-`, then you can reference it like so `pingyhq/bootstrap-jumbotron`. Both will resolve to `https://github.com/pingyhq/pingy-scaffold-bootstrap-jumbotron.git`.
+A shorthand GitHub URL can be in the form of `user/repo` or `user/(pingy-scaffold-)`. So, you can use `pingyhq/pingy-scaffold-bootstrap-jumbotron` or if your repo begins with the prefix `pingy-scaffold-`, then you can reference it like so `pingyhq/bootstrap-jumbotron`. Both will resolve to `https://github.com/pingyhq/pingy-scaffold-bootstrap-jumbotron.git`.
 
 ### `pingy scaffold <absolute local path>`
 
