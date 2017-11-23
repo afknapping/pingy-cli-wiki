@@ -36,7 +36,7 @@ Packages that are required by your scaffolded websites in development. The user 
 },
 ```
 
-⚠️ you need to add the modules to transform your source files as devDependencies. If you are using `.pug` files in your scaffold, you would need to add `pug`.
+⚠️ You need to add the modules to transform your source files as devDependencies. If you are using `.pug` files in your scaffold, you would need to add `pug`.
 
 
 ### `pingyJson`
@@ -96,7 +96,7 @@ To include files in your scaffolded they must be included in the `files` array. 
 ]
 ```
 
-⚠️ you need to add the modules for your file types as devDependencies in the `pingy-scaffold.json`. In the above example, you would need to add `node-sass`.
+⚠️ You need to add the modules for your file types as devDependencies in the `pingy-scaffold.json`. In the above example, you would need to add `node-sass`.
 
 Optionally you may also include a `vars` object. If this is included then the input file will become a template and you may use the `vars` in the input template using double-curly braces (`{{ foo }}`) for interpolation. Templating uses [Markup.js](https://github.com/adammark/Markup.js/).
 
