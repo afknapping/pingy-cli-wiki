@@ -5,6 +5,8 @@
 In a pingy scaffold only one file is mandatory, `pingy-scaffold.json`.
 The file may have the following keys:
 
+* name (mandatory)
+* description (mandatory)
 * dependencies
 * devDependencies
 * pingyJson
